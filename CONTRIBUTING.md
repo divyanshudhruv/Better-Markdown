@@ -2,25 +2,6 @@
 
 <br>
 
-> 🙏🏻 Thankyou For **`Contributing`** In The Project . . .
-
-> ⚡ How To **`Participate`** In The Project . . .
-
-<br>
-<!--
-## 🚧 Info
-
-<br>
-
-> Before **`Contributing`** Ensure That It Will Not Duplicate Any Active **`Issues`** Or Open **`Pull Requests`**
-
-> It is advised to Join The **<code><a href="github.com">Discussions</a></code>** First To Discuss The Change
-
-> Be **`Positive`**! Even If Your Changes Don't Get Merged In **`Project`**
-
- <br>
--->
-
 ## 🚩 Get In Touch
 
 <br>
