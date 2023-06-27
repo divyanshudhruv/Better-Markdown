@@ -36,11 +36,13 @@
 
 > **`1`** Join The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues/1">Discussion</a></code>**
 
-> **`2`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues">Issues</a></code>**
+> **`2`** Visit **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a></code>**
 
-> **`3`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
+> **`3`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues">Issues</a></code>**
 
-> **`4`** Star The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown">Repository</a></code>**
+> **`4`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
+
+> **`5`** Star The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown">Repository</a></code>**
  
 <br>
 
