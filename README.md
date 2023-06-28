@@ -50,31 +50,31 @@
 
 <br>
 
-> **`1`** Heading
- 
-> **`2`** Paragraph
+> **`1️`** [Heading](#%EF%B8%8F-heading)
 
-> **`3`** Line Break
- 
-> **`4`** Emphasis
- 
-> **`5`** Backslash
- 
-> **`6`** Blockquote
- 
-> **`7`** List
- 
-> **`8`** Task List
- 
-> **`9`** Code Block
- 
-> **`10`** Horizontal Rule
- 
-> **`11`** Link
- 
-> **`12`** Indentation
- 
-> **`13`** HTML
+> **`2️`** [Paragraph](#%EF%B8%8F-paragraph)
+
+> **`3`** [Line Break](#%EF%B8%8F-line-break)
+
+> **`4️`** [Emphasis](#%EF%B8%8F-emphasis)
+
+> **`5️`** [Backslash](#%EF%B8%8F-backslash)
+
+> **`6️`** [Blockquote](#%EF%B8%8F-blockquote)
+
+> **`7️`** [List](#%EF%B8%8F-lists)
+
+> **`8️`** [Task List](#%EF%B8%8F-task-list)
+
+> **`9️`** [Code Block](#%EF%B8%8F-codeblock)
+
+> **`10`** [Horizontal Rule](#%EF%B8%8F-horizontal-rule)
+
+> **`11`** [Link](#%EF%B8%8F-link)
+
+> **`12`** [Indentation](#%EF%B8%8F-indentation)
+
+> **`13`** [HTML](#%EF%B8%8F-html)
  
 <br>
 
