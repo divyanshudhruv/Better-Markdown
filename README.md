@@ -50,31 +50,31 @@
 
 <br>
 
-> **`1️⃣`** [Heading](#%EF%B8%8F-heading)
+> **`1️`** [Heading](#%EF%B8%8F-heading)
 
-> **`2️⃣`** [Paragraph](#%EF%B8%8F-paragraph)
+> **`2️`** [Paragraph](#%EF%B8%8F-paragraph)
 
-> **`3️⃣`** [Line Break](#%EF%B8%8F-line-break)
+> **`3`** [Line Break](#%EF%B8%8F-line-break)
 
-> **`4️⃣`** [Emphasis](#%EF%B8%8F-emphasis)
+> **`4️`** [Emphasis](#%EF%B8%8F-emphasis)
 
-> **`5️⃣`** [Backslash](#%EF%B8%8F-backslash)
+> **`5️`** [Backslash](#%EF%B8%8F-backslash)
 
-> **`6️⃣`** [Blockquote](#%EF%B8%8F-blockquote)
+> **`6️`** [Blockquote](#%EF%B8%8F-blockquote)
 
-> **`7️⃣`** [List](#%EF%B8%8F-lists)
+> **`7️`** [List](#%EF%B8%8F-lists)
 
-> **`8️⃣`** [Task List](#%EF%B8%8F-task-list)
+> **`8️`** [Task List](#%EF%B8%8F-task-list)
 
-> **`9️⃣`** [Code Block](#%EF%B8%8F-codeblock)
+> **`9️`** [Code Block](#%EF%B8%8F-codeblock)
 
-> **`🔟`** [Horizontal Rule](#%EF%B8%8F-horizontal-rule)
+> **`10`** [Horizontal Rule](#%EF%B8%8F-horizontal-rule)
 
-> **`1️⃣1️⃣`** [Link](#%EF%B8%8F-link)
+> **`11`** [Link](#%EF%B8%8F-link)
 
-> **`1️⃣2️⃣`** [Indentation](#%EF%B8%8F-indentation)
+> **`12`** [Indentation](#%EF%B8%8F-indentation)
 
-> **`1️⃣3️⃣`** [HTML](#%EF%B8%8F-html)
+> **`13`** [HTML](#%EF%B8%8F-html)
  
 <br>
 
