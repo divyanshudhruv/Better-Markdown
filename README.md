@@ -1,11 +1,11 @@
-# Better Markdown
+<img src="https://capsule-render.vercel.app/api?text=Better%20Markdown%&fontSize=42.5&fontColor=5d6369&type=wave&color=f6f8fa&animation=fadeIn&desc=🔥%20Tips%20For%20Better%20Markdown%20With%20Variations%20And%20Practices&descSize=15&descAlignY=95" width="100%">
 
 <br>
+<br>
 
-<!-- > 🔥 A **`Guide`** For Better Markdown With **`Variations`** And **`Practices`**
--->
-> 🔥 **`Tips`** For Better Markdown With **`Variations`** And **`Practices`**
+<p align="center">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-8-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
 
+<br>
 <br>
 
 ## 🚩 License
@@ -23,10 +23,11 @@
 > **`v0.1`  `27/06/2023`** - Added Basic Markdown Syntax
 
 <!--
+
 > **`v0.2`**
 
 > **`v0.3`**
--->
+> -->
 
 <br>
 
@@ -43,7 +44,7 @@
 > **`4`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
 
 > **`5`** Star The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown">Repository</a></code>**
- 
+
 <br>
 
 ## 📁 Content
@@ -75,7 +76,7 @@
 > **`12`** [Indentation](#%EF%B8%8F-indentation)
 
 > **`13`** [HTML](#%EF%B8%8F-html)
- 
+
 <br>
 
 ## ✏️ Document Layout
@@ -236,6 +237,7 @@ I Am <em> Italic <em>
 <br>
 
 <!--
+
 >  For Compatibility , Prefer Using **`~~`** To Strike Through The Words :
 
 <br>
@@ -374,7 +376,6 @@ Add Spacing
 ````
 
 ```javascript
-
 var a = 5;
 
 console.log(a);
@@ -448,6 +449,7 @@ Blank Line
 <br>
 
 <!--
+
 ## ✏️ Image
 
 <br>
@@ -464,17 +466,17 @@ Blank Line
 
 <br>
 -->
+
 ## ✏️ Indentation
 
 <br>
 
 
 > To **`Nest`** A Blockquote Add a **`>>`** In Front Of The Paragraph :
- 
+
 <br>
 
 ```ruby
-
 > First Blockquote
 
 >> Nested Blockquote
@@ -490,7 +492,6 @@ Blank Line
 <br>
 
 ```ruby
-
 1. First Item
 
     - Nested Item
