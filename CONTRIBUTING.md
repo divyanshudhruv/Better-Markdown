@@ -14,7 +14,7 @@
 
 <br>
 
-> Join The **<code><a href="github.com/divyanshudhruv/Better-Markdown/issues/1">Discussions</a></code>**
+> Join The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues/1">Discussions</a></code>**
 
 <br>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-> **`1`** Fork The **<code><a href="github.com/divyanshudhruv/Better-Markdown">Repository</a></code>**
+> **`1`** Fork The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown">Repository</a></code>**
 
-> **`2`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
+> **`2`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
 
-> **`3`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
+> **`3`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
 
 <br>
 
@@ -34,11 +34,11 @@
 
 <br>
 
-> **`1`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
+> **`1`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
 
-> **`2`** Add **<code><a href="github.com/divyanshudhruv/Better-Markdown/labels">Labels</a></code>**
+> **`2`** Add **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/labels">Labels</a></code>**
 
-> **`3`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
+> **`3`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
 
 <br>
 
@@ -46,13 +46,13 @@
 
 <br>
 
-> **`1`** Join The **<code><a href="github.com/divyanshudhruv/Better-Markdown/issues/1">Discussions</a></code>**
+> **`1`** Join The **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues/1">Discussions</a></code>**
 
-> **`2`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
+> **`2`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/issues">Issue</a></code>**
 
-> **`3`** Add **<code><a href="github.com/divyanshudhruv/Better-Markdown/labels">Labels</a></code>**
+> **`3`** Add **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/labels">Labels</a></code>**
 
-> **`4`** Create **<code><a href="github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
+> **`4`** Create **<code><a href="https://github.com/divyanshudhruv/Better-Markdown/pulls">Pull Request</a></code>**
 
 <br>
 
