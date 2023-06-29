@@ -1,5 +1,13 @@
-# Contribution
+<img src="https://capsule-render.vercel.app/api?text=Contribution&fontSize=42.5&fontColor=5d6369&type=wave&color=f6f8fa&animation=fadeIn&desc=🙏🏻%20Thankyou%20For%20Contributing%20In%20The%20Project&descSize=15&descAlignY=93" width="100%">
 
+<br>
+<br>
+
+<p align="center">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
+
+
+
+<br>
 <br>
 
 ## 🚩 Get In Touch
