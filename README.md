@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<p align="center">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-8-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
+<p align="center">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-9-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
 
 <br>
 <br>
