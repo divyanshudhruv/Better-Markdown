@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?text=Better%20Markdown%&fontSize=42.5&fontColor=5d6369&type=wave&color=f6f8fa&animation=fadeIn&desc=🔥%20Tips%20For%20Better%20Markdown%20With%20Variations%20And%20Practices&descSize=15&descAlignY=95" width="100%">
-
+<!--<img src="https://capsule-render.vercel.app/api?text=Better%20Markdown%&fontSize=42.5&fontColor=5d6369&type=wave&color=f6f8fa&animation=fadeIn&desc=🔥%20Tips%20For%20Better%20Markdown%20With%20Variations%20And%20Practices&descSize=15&descAlignY=95" width="100%">
+-->
+# ⚡🔥 Better-Markdown 
 <br>
 <br>
 
-<p align="center">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-9-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
+<p align="left">  <img src="https://img.shields.io/badge/Version-0.1-808fff?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-9-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/GH--page-active-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
 
 <br>
 <br>
